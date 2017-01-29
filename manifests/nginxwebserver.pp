@@ -1,4 +1,4 @@
 class profile::nginxwebserver{
   include nginx
-  nginx::vhost{'hiera.ym':} 
+  nginx::vhost{'kpn.com':} 
 }
