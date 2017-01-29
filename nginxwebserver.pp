@@ -1,0 +1,3 @@
+class nginxwebserver{
+  include nginx
+}
