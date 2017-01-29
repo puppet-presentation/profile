@@ -1,3 +1,3 @@
-class nginxwebserver{
+class profiles::nginxwebserver{
   include nginx
 }
